@@ -1,0 +1,43 @@
+body {
+    font-family: Georgia,Times,"Times New Roman","Bitstream Charter","URW Bookman L",serif
+}
+
+.home .widget-breadcrumbs {
+    display: none;
+}
+
+.site-title, .widget-breadcrumbs #breadcrumbs li:first-child a {
+    background: url(/img/habitante_logo.png) no-repeat;
+    text-indent: -9999px;
+}
+
+.site-title {
+    background-size: 284px;
+}
+
+.widget-breadcrumbs #breadcrumbs li:first-child a {
+    display: inline-block;
+    width: 188px;
+    background-size: 180px;
+}
+
+.widget-breadcrumbs li {
+    font-family: -apple-system,BlinkMacSystemFont,"Segoe UI",Roboto,Oxygen-Sans,Ubuntu,Cantarell,"Open Sans",Helvetica Neue,sans-serif;
+}
+
+#main-menu li {
+    font-family: mono;
+}
+
+.entry-cover img {
+    margin: 0 auto;
+}
+.header-info .title .taxonomy-name {
+    display: block;
+    font-style: normal;
+    font-weight: normal;
+    text-transform: uppercase;
+    font-size: .52em;
+    color: #455a64;
+    font-family: mono;
+}
