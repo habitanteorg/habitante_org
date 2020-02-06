@@ -14,6 +14,9 @@ gopher = ""
 
 [params.settings]
 accentColor = "#3d7e9a"
+dateFormat = "2/1/2006"
+listDateFormat = "02/01/2006"
+archiveDateFormat = "2/1"
 
 [params.copyright]
 prefix = "<span style=\"display:none\">"

@@ -2,6 +2,10 @@ body {
     font-family: Georgia,Times,"Times New Roman","Bitstream Charter","URW Bookman L",serif
 }
 
+.meta time {
+    font-family: mono;
+}
+
 .home .widget-breadcrumbs {
     display: none;
 }
